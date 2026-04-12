@@ -1,0 +1,23 @@
+#include <behaviors.dtsi>
+#include <dt-bindings/zmk/keys.h>
+
+/ {
+    keymap {
+        compatible = "zmk,keymap";
+
+        default_layer {
+            bindings = <
+            // Row 0
+            &kp ESC   &kp Q  &kp W  &kp E  &kp R  &kp T      &kp Y  &kp U  &kp I      &kp O    &kp P     &kp BSPC
+            // Row 1
+            &kp TAB   &kp A  &kp S  &kp D  &kp F  &kp G      &kp H  &kp J  &kp K      &kp L    &kp SEMI  &kp SQT
+            // Row 2
+            &kp LSHFT &kp Z  &kp X  &kp C  &kp V  &kp B      &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
+            // Row 3
+            &kp LCTRL &kp LGUI &kp LALT &kp SPACE &kp SPACE &kp SPACE    &kp SPACE &kp SPACE &kp SPACE &kp RALT &kp RGUI &kp RCTRL
+            // Row 4 (Thumb Cluster: 3 keys per side)
+                                &kp SPACE &kp SPACE &kp SPACE    &kp ENTER &kp ENTER &kp ENTER
+            >;
+        };
+    };
+};
