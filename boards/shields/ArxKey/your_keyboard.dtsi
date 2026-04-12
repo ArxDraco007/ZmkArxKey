@@ -1,0 +1,23 @@
+#include <dt-bindings/zmk/matrix_transform.h>
+
+/ {
+    chosen {
+        zmk,kscan = &kscan0;
+        zmk,physical-layout = &physical_layout0;
+    };
+
+    kscan0: kscan0 {
+        compatible = "zmk,kscan-gpio-matrix";
+        diode-direction = "col2row"; // Matches the tutorial diode setup
+        wakeup-source;
+    };
+
+    default_transform: keymap_transform0 {
+        compatible = "zmk,matrix-transform";
+        columns = <10>; // Total columns (Left + Right)
+        rows = <4>;    // Total rows
+        map = <
+            // This is where you define your key grid later!
+        >;
+    };
+};
