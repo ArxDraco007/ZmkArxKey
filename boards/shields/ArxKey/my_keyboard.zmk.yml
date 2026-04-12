@@ -1,0 +1,11 @@
+file_format: "1"
+id: my_keyboard
+name: "ArxSplit"
+type: shield
+url: https://github.com/yourusername/your-repo
+requires: [xiao_ble]
+features:
+  - keys
+siblings:
+  - my_keyboard_left
+  - my_keyboard_right
