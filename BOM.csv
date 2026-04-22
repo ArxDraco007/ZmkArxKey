@@ -1,7 +1,7 @@
 Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Seeed XIAO nRF52840","Must be the nRF52840 version for Bluetooth.",2,32.00,"",""
-"LiPo Battery (3.7V)","Look for ""301230"" or ""401230"" sizes (100-150mAh).",2,6.00,"",""
-"Diodes (1N4148W)","SOD-123 size (as per your KiCad layout).",100,1.50,"",""
-"Cherry MX Switches","The keys.",45,18.75,"",""
-"Power Switches/Resistors","MSK-12C02 switches and 0805 resistors.",1,2.00,"",""
-"Custom PCB (JLCPCB)","$2 for the boards + ~$8 for global shipping.",1,10.00,"",""
+"Seeed XIAO nRF52840","Must be the nRF52840 version for Bluetooth.",2,32.00,"https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0?variant=48251063075056&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=17426677322&gbraid=0AAAAACLxaAYY1Lcse4IwDk1zivRzXaq9K&gclid=CjwKCAjw46HPBhAMEiwASZpLRDmwbAtWCnj40dNcaKRKcZpM1JnJCpINL7_Ur_soWbt0a1k38Y1bjxoCnV8QAvD_BwE","MakerBazar"
+"LiPo Battery (3.7V)","Look for ""301230"" or ""401230"" sizes (100-150mAh).",2,6.00,"https://www.electropi.in/3.7v-300mah-lipo-battery-model-401230-india?gad_source=1&gad_campaignid=23329895947&gbraid=0AAAAA-s6SdX2lHwM5lSxBXx-esWupFlOC&gclid=CjwKCAjw46HPBhAMEiwASZpLRGd5y739ex8zlBbFHVC1va89JqplwaWy3hLIMMGHP_lKp4XBiGXIcBoCeYoQAvD_BwE","Electropi"
+"Diodes (1N4148W)","SOD-123 size (as per your KiCad layout).",100,1.50,"https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs","Robu"
+"Cherry MX Switches","The keys.",45,18.75,"https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/","mckeys"
+"Power Switches/Resistors","MSK-12C02 switches and 0805 resistors.",1,2.00,"https://robu.in/product/1k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10","Robu"
+"Custom PCB (JLCPCB)","$2 for the boards + ~$8 for global shipping.",1,10.00,"https://jlcpcb.com/","JLCPCB"
