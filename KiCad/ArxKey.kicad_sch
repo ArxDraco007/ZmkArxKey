@@ -107,7 +107,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 85.09 97.79 0)
+		(at 63.5 96.52 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -116,9 +116,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "53ba46ef-a94c-4116-b1db-2811c403e18a")
-		(property "Reference" "BO2"
-			(at 87.63 96.5199 0)
+		(uuid "3020c022-3621-4165-aa20-491441de74ac")
+		(property "Reference" "H5"
+			(at 66.04 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -128,8 +128,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "break off"
-			(at 87.63 99.0599 0)
+		(property "Value" "MountingHole"
+			(at 66.04 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -139,8 +139,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Panelization.pretty-master:mouse-bite-5mm-slot"
-			(at 85.09 97.79 0)
+		(property "Footprint" "Panelization.pretty-master:mouse-bite-2mm-slot"
+			(at 63.5 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -151,7 +151,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 97.79 0)
+			(at 63.5 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -162,7 +162,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 85.09 97.79 0)
+			(at 63.5 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -175,7 +175,7 @@
 		(instances
 			(project "ArxKey"
 				(path "/23ad1585-5c91-4de6-86f2-a576fc0b31a5"
-					(reference "BO2")
+					(reference "H5")
 					(unit 1)
 				)
 			)
@@ -183,7 +183,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 85.09 91.44 0)
+		(at 63.5 109.22 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -192,9 +192,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "c381391f-e63b-4c9f-b249-54d946acf696")
-		(property "Reference" "BO1"
-			(at 87.63 90.1699 0)
+		(uuid "386777a6-141b-409c-82d6-3e6886e89526")
+		(property "Reference" "H7"
+			(at 66.04 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -204,8 +204,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "break off"
-			(at 87.63 92.7099 0)
+		(property "Value" "MountingHole"
+			(at 66.04 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -215,8 +215,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Panelization.pretty-master:mouse-bite-5mm-slot"
-			(at 85.09 91.44 0)
+		(property "Footprint" "Panelization.pretty-master:mouse-bite-2mm-slot"
+			(at 63.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -227,7 +227,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 91.44 0)
+			(at 63.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -238,7 +238,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 85.09 91.44 0)
+			(at 63.5 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -251,7 +251,7 @@
 		(instances
 			(project "ArxKey"
 				(path "/23ad1585-5c91-4de6-86f2-a576fc0b31a5"
-					(reference "BO1")
+					(reference "H7")
 					(unit 1)
 				)
 			)
@@ -259,7 +259,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 85.09 104.14 0)
+		(at 63.5 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -268,9 +268,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "eb8c862e-5f50-4fe1-a690-1b770f44045d")
-		(property "Reference" "BO3"
-			(at 87.63 102.8699 0)
+		(uuid "50be8898-78aa-449b-8f22-44482217b754")
+		(property "Reference" "H6"
+			(at 66.04 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -280,8 +280,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "break off"
-			(at 87.63 105.4099 0)
+		(property "Value" "MountingHole"
+			(at 66.04 104.1399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -291,8 +291,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Panelization.pretty-master:mouse-bite-5mm-slot"
-			(at 85.09 104.14 0)
+		(property "Footprint" "Panelization.pretty-master:mouse-bite-2mm-slot"
+			(at 63.5 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -303,7 +303,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 85.09 104.14 0)
+			(at 63.5 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -314,7 +314,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 85.09 104.14 0)
+			(at 63.5 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -327,7 +327,7 @@
 		(instances
 			(project "ArxKey"
 				(path "/23ad1585-5c91-4de6-86f2-a576fc0b31a5"
-					(reference "BO3")
+					(reference "H6")
 					(unit 1)
 				)
 			)

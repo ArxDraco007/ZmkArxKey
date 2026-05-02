@@ -54,7 +54,12 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|203718750|77885000|F.Cu|4|8323cc10-23e5-4d3e-86b4-7f9be31daa21|18f7ba9c-ca70-4dab-aeda-b57881ad629d",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -632,7 +637,7 @@
         "uuid": "23ad1585-5c91-4de6-86f2-a576fc0b31a5"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D53-54,H5-7,SW53-54",
     "variants": []
   },
   "sheets": [
