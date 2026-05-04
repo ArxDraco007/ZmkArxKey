@@ -23,15 +23,14 @@ The not-so-easy part -
 7. Flash your ZMK firmware to the Seeeduino.
 8. Repeat for the second half, pair them, and test your work.
 
-## Bill of Materials (BOM)
+| Name                           | Purpose                                          | Quantity | Total Cost (USD) | Link                                                                                                                                                                                         | Distributor |
+| :----------------------------- | :----------------------------------------------- | :------: | :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Hotswap Socket**             | Fittings for the Cherry MX                       |    50    |       6.00       | [https://stackskb.com/store/gateron-hotswap-sockets/](https://stackskb.com/store/gateron-hotswap-sockets/)                                                                                   | Stackskb    |
+| **Seeed XIAO nRF52840**        | Must be the nRF52840 version for Bluetooth       |     2    |       32.00      | [https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0](https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0)                                 | MakerBazar  |
+| **LiPo Battery (3.7V)**        | Look for "301230" or "401230" sizes (100–150mAh) |     2    |       6.00       | [https://www.electropi.in/3.7v-300mah-lipo-battery-model-401230-india](https://www.electropi.in/3.7v-300mah-lipo-battery-model-401230-india)                                                 | Electropi   |
+| **Diodes (1N4148W)**           | SOD-123 size (as per your KiCad layout)          |    100   |       1.50       | [https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs](https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs)                 | Robu        |
+| **Cherry MX Switches**         | The keys                                         |    45    |       18.75      | [https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) | Meckeys     |
+| **Power Switches / Resistors** | MSK-12C02 switches and 0805 resistors            |     1    |       2.00       | [https://robu.in/product/1k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10](https://robu.in/product/1k-ohm-1-4w-0805-surface-mount-chip-resistor-pack-of-10)                           | Robu        |
+| **Custom PCB (JLCPCB)**        | $2 for boards + ~$8 global shipping              |     1    |       10.00      | [https://jlcpcb.com/](https://jlcpcb.com/)                                                                                                                                                   | JLCPCB      |
+| **TOTAL**                      |                                                  |          |     **76.25**    |                                                                                                                                                                                              |             |
 
-| Name | Purpose | Quantity | Total Cost (USD) |
-| :--- | :--- | :---: | :---: |
-| **Hotswap Socket** | Fittings for the Cherry MX | 50 | 6.00 |
-| **Seeed XIAO nRF52840** | Must be the nRF52840 version for Bluetooth | 2 | 32.00 |
-| **LiPo Battery (3.7V)** | Look for "301230" or "401230" sizes (100–150mAh) | 2 | 6.00 |
-| **Diodes (1N4148W)** | SOD-123 size (as per your KiCad layout) | 100 | 1.50 |
-| **Budget Switches** | Outemu or Gateron Yellows | 45 | 12.00 |
-| **Power Switches / Resistors** | MSK-12C02 switches and 0805 resistors | 1 | 2.00 |
-| **Custom PCB (JLCPCB)** | $2 for boards + ~$8 global shipping | 1 | 10.00 |
-| **TOTAL** |  |  | **69.50** |
