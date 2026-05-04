@@ -34,4 +34,4 @@ The not-so-easy part -
 | **Budget Switches** | Outemu or Gateron Yellows | 45 | 12.00 |
 | **Power Switches / Resistors** | MSK-12C02 switches and 0805 resistors | 1 | 2.00 |
 | **Custom PCB (JLCPCB)** | $2 for boards + ~$8 global shipping | 1 | 10.00 |
-| **TOTAL** |  |  | **63.50** |
+| **TOTAL** |  |  | **69.50** |
