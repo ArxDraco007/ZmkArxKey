@@ -27,6 +27,7 @@ The not-so-easy part -
 
 | Name | Purpose | Quantity | Total Cost (USD) |
 | :--- | :--- | :---: | :---: |
+| **Hotswap Socket** | Fittings for the Cherry MX | 50 | 6.00 |
 | **Seeed XIAO nRF52840** | Must be the nRF52840 version for Bluetooth | 2 | 32.00 |
 | **LiPo Battery (3.7V)** | Look for "301230" or "401230" sizes (100–150mAh) | 2 | 6.00 |
 | **Diodes (1N4148W)** | SOD-123 size (as per your KiCad layout) | 100 | 1.50 |
