@@ -13,6 +13,10 @@ The not-so-easy part -
 
 <img width="1915" height="1042" alt="1775912615627-d0wt4m" src="https://github.com/user-attachments/assets/be9c7628-58e8-4748-91be-615c5ea9f70d" />
 
+fusio' - 
+<img width="1420" height="632" alt="left" src="https://github.com/user-attachments/assets/7711c0e2-655e-41af-9ecd-e7292ae6ff19" />
+
+
 ## Assembly instructions - 
 1. Heat-press the brass inserts into the case and glue the magnets into place.
 2. Screw the stabilizers into the PCB and mount the sliding switch to the case.
