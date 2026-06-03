@@ -1,4 +1,4 @@
-# Split Keyboard
+# ArxKey - A Custom Split Keyboard
 
 ## Building a custom wireless split mechanical keyboard from scratch.
 
@@ -29,10 +29,18 @@ fusio' -
 7. Flash your ZMK firmware to the Seeeduino.
 8. Repeat for the second half, pair them, and test your work.
 
+## How to use it?
+
+
+## Zine!
+
+[zine.pdf](https://github.com/user-attachments/files/28559898/zine.pdf)
+
+
 | Name                           | Purpose                                          | Quantity | Total Cost (USD) | Link                                                                                                                                                                                         | Distributor |
 | :----------------------------- | :----------------------------------------------- | :------: | :--------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
 | **Hotswap Socket**             | Fittings for the Cherry MX                       |    50    |       6.00       | [https://stackskb.com/store/gateron-hotswap-sockets/](https://stackskb.com/store/gateron-hotswap-sockets/)                                                                                   | Stackskb    |
-| **Seeed XIAO nRF52840**        | Must be the nRF52840 version for Bluetooth       |     2    |       32.00      | [https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0](https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0)                                 | MakerBazar  |
+| **Seeed XIAO nRF52840**        | Must be the nRF52840 version for Bluetooth       |     2    |       32.00      | [https://makerbazar.in/products/seeed-studio-xiao-esp32s3-2-4ghz-wifi-ble-5-0](https://www.mouser.in/ProductDetail/Seeed-Studio/102010448?qs=Znm5pLBrcAJ5g%252BWAkitg4w%3D%3D&mgh=1&srsltid=AfmBOookTzqLpFXL5ZJK-A9C8BAJeETLAgGSwWRBi-OlQGBi2qX4YWWgBEQ)                                 | MakerBazar  |
 | **LiPo Battery (3.7V)**        | Look for "301230" or "401230" sizes (100–150mAh) |     2    |       6.00       | [https://www.electropi.in/3.7v-300mah-lipo-battery-model-401230-india](https://www.electropi.in/3.7v-300mah-lipo-battery-model-401230-india)                                                 | Electropi   |
 | **Diodes (1N4148W)**           | SOD-123 size (as per your KiCad layout)          |    100   |       1.50       | [https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs](https://robu.in/product/1n4148w-slkor-75v-1v-4ns-150ma-sod-123-switching-diodes-rohs)                 | Robu        |
 | **Cherry MX Switches**         | The keys                                         |    45    |       18.75      | [https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/) | Meckeys     |
