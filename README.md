@@ -30,7 +30,12 @@ fusio' -
 8. Repeat for the second half, pair them, and test your work.
 
 ## How to use it?
-
+## How to use it?
+1. Power on both halves, the keyboard will show as ArxSplit in the PC/Phone's Bluetooth settings.
+2. The right and left layers are in the general QWERTY layout.
+3. Flashing Firmware - Push the ZMK Files/ directory to a GitHub repo.
+4. It will build two .uf2 files, my_keyboard_left and my_keyboard_right.
+5. Double-tap the Reset button on the XIAO — it enters bootloader mode and mounts as a USB drive called XIAO-SENSE or NRF52BOOT. Drag and drop the .uf2 file onto that drive. It flashes automatically and reboots.
 
 ## Zine!
 
