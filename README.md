@@ -34,7 +34,8 @@ fusio' -
 
 ## Zine!
 
-[zine.pdf](https://github.com/user-attachments/files/28559898/zine.pdf)
+<img width="844" height="1294" alt="zine_page-0001" src="https://github.com/user-attachments/assets/45743b16-cf59-4109-8aca-d35d29783c61" />
+
 
 
 | Name                           | Purpose                                          | Quantity | Total Cost (USD) | Link                                                                                                                                                                                         | Distributor |
