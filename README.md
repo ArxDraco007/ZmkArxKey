@@ -28,8 +28,7 @@ fusio' -
 6. Click switches into the plate, screw the plate to the case, and add keycaps.
 7. Flash your ZMK firmware to the Seeeduino.
 8. Repeat for the second half, pair them, and test your work.
-
-## How to use it?
+   
 ## How to use it?
 1. Power on both halves, the keyboard will show as ArxSplit in the PC/Phone's Bluetooth settings.
 2. The right and left layers are in the general QWERTY layout.
