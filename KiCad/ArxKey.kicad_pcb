@@ -85,7 +85,7 @@
 			(mirror no)
 			(drillshape 1)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Gerber Files/")
 		)
 	)
 	(footprint "PCM_marbastlib-mx:SW_MX_HS_KS-2P02B01-01_1u"
