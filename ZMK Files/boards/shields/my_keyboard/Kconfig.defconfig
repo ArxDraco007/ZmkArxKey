@@ -1,0 +1,17 @@
+# This part only applies to the LEFT side (the Central)
+if SHIELD_MY_KEYBOARD_LEFT
+    # This name shows up in your Bluetooth settings (Max 16 characters!)
+    config ZMK_KEYBOARD_NAME
+        default "ArxSplit"
+
+    # Defines the left side as the one that talks to the PC
+    config ZMK_SPLIT_ROLE_CENTRAL
+        default y
+endif
+
+# This part applies to BOTH sides
+if SHIELD_MY_KEYBOARD_LEFT || SHIELD_MY_KEYBOARD_RIGHT
+    # Tells ZMK this is a split keyboard
+    config ZMK_SPLIT
+        default y
+endif
