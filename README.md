@@ -1,8 +1,10 @@
 # Split Keyboard
 
 ## Building a custom wireless split mechanical keyboard from scratch.
+
 ## Why did I make this project?
-  Sounded like a very fun project to make, also very cool to have your own custom keyboard (split one too). Also, I do not want to get carpal tunnel...
+  There are a lot of ill effects of using a non-ergonomic keyboard. Some basic effects happen, such as ulnar deviation (bending wrists outward), forearm pronation (palms facing down), and unnatural extension. It might also get very serious if you have Carpal Tunnel Syndrome (CTS): The median nerve in the wrist is compressed, often due to swollen tendons. It leads to numbness, tingling, and weakened grip strength. As the times change, you will require a keyboard as it becomes an integral part of your everyday life. It is best to have an ergonomic (furniture or equipment that makes it comfortable and effective for people who use it) keyboard, to make sure you enjoy your work.
+You can also type very fast. It is also a very fun project to make, and it is also very cool to have your own custom keyboard (split one too).
 ### PICTURES!!!
 The easy part -
 
